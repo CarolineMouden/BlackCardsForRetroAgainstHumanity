@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">RetroAgainstHumanity</string>
+
+    <string name="next_action">Another card</string>
+    <string name="reset_action">Shuffle</string>
+
+    <string-array
+        name="cards_selection">
+        <!-- from box uk retro against humanity -->
+        <item>We were into _B_ before it was cool.</item>
+        <item>The Colonel’s secret spice contain _B_.</item>
+        <item>I love the smell of _B_ in the morning.</item>
+        <item>_B_ was so good even Grumpy Cat smiled.</item>
+        <item>_B_ is my chosen weapon for the apocalypse.</item>
+        <item>The secret weapon in the war against bad sprints is _B_.</item>
+        <item>_B_ was all the things, to all the people. </item>
+        <item>The secret to a good sprint they don’t want you to know about is _B_ .</item>
+        <item>More beautiful than a double rainbow; when _B_ just works.</item>
+        <item>I’ll tell you what I want, what I really really want: _B_.</item>
+        <item>I want to shout it from the rooftops. I love: _B_.</item>
+        <item>_B_ is the modern-day Betamax.</item>
+        <item>The tenth circle of hell is made up of _B_ .</item>
+        <item>_B_ keeps me up at night.</item>
+        <item>Ain’t nobody got time for _B_ .</item>
+        <item>_B_ is more offensive than the teeth of a Jeremy Kyle guest.</item>
+        <item>I wouldn\'t wish _B_ to my worst enemy.</item>
+        <item>Don’t feed gizmo after midnight or you may end up with _B_.</item>
+        <item>Drawing a perfect circle on an etch a sketch is easier than _B_.</item>
+        <item>The only thing I regret is _B_.</item>
+        <item>_B_ should be sent to bed without supper.</item>
+        <item>If only we’d known about _B_ sooner. </item>
+        <item>_B_ : what\'s the worst that could happen?</item>
+        <item>I\'m 100% sure, except maybe _B_ .</item>
+        <item>_B_ could save the world. Or it could kill us all.</item>
+        <item>I like to try new things, but is _B_ really the answer?</item>
+        <item>_B_ didn’t go exactly how I’d have liked. But it worked.</item>
+        <item>_B_ surprised me more than Chris Evans leaving Top Gear.</item>
+        <item>I figured it all out, but _B_ still baffles me.</item>
+        <item>_B_ confused us more than Opal Fruits changing to Starburst.</item>
+        <item>why didn\'t we think of _B_ sooner?</item>
+        <item>Who could have guessed that _B_ would be a thing this sprint?</item>
+        <item>No one puts _B_ in the corner.</item>
+        <item>_B_ is a one man/woman army.</item>
+        <item>The name’s Bond. _B_ Bond.</item>
+        <item>Who you gonna call? _B_!</item>
+        <item>Even Chuck Norris bows down to _B_.</item>
+        <item>I’d take _B_ home to meet the parents.</item>
+        <item>Nothing compares to _B_.</item>
+        <item>Always be yourself, unless you can be _B_.</item>
+        <item>_B_: not the hero we want, but the hero we definitely need.</item>
+        <item>I’d recommend _B_ to a friend.</item>
+        <item>_B_ is an unstoppable sprint beast.</item>
+
+        <item>But before I kill you, Mr Bond, I must show you _B_ !</item>
+        <item>I drink to forget _B_ .</item>
+        <item>if _B_ did not exist we would have to invent them.</item>
+        <item>Egypt has pyramids; we have _B_ .</item>
+    </string-array>
+
+</resources>

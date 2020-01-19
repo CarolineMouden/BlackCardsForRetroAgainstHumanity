@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetroAgainstHumanity</string>
+
+    <string name="next_action">Another card</string>
+    <string name="reset_action">Shuffle</string>
+
+    <string-array
+        name="cards_selection">
+        <item>No cards for your language yet!</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RetroAgainstHumanity</string>
+
+    <string name="next_action">Nouvelle carte</string>
+    <string name="reset_action">Mélanger le jeu</string>
+
+    <string-array
+        name="cards_selection">
+        <item>Vive les _B_.</item>
+        <item>Mais avant de vous tuer, Mr Bond, je dois vous montrer _B_ .</item>
+        <item>_B_ pourrait sauver le monde. Ou alors tous nous tuer.</item>
+        <item>_B_ me fait faire des cauchemars.</item>
+        <item>Alors que Pharaon restait impassible, Moïse provoqua la onzième plaie: _B_ .</item>
+        <item>Je suis sûr(e) à 100%, enfin sauf pour _B_ .</item>
+        <item>Je ne souhaiterai pas _B_ à mon pire ennemi.</item>
+        <item>_B_ n\'a pas fonctionné comme je le souhaitais. Mais au moins, ça fonctionne.</item>
+        <item>Pourquoi on n\'a pas pensé à _B_ plus tôt?</item>
+        <item>Si _B_ n\'existait pas, il faudrait l\'inventer.</item>
+        <item>_B_ : qu\'est-ce qu\'il pourrait arriver de pire?</item>
+        <item>On a fait _B_ avant que ce soit à la mode.</item>
+        <item>Je bois pour oublier _B_ .</item>
+        <item>J\'aime l\'odeur du _B_ au petit matin.</item>
+        <item>J\'aime bien tester de nouvelles choses, mais est-ce vraiment _B_ la solution?</item>
+        <item>_B_ est mon arme préférée pour l\'apocalypse.</item>
+        <item>L\'Egypte a ses pyramides, nous avons _B_ .</item>
+        <item>Le meilleur moyen de réussir un sprint est de _B_ .</item>
+    </string-array>
+
+</resources>
