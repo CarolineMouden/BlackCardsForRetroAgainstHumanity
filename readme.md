@@ -31,6 +31,8 @@ Then we can define actions from the kept cards.
 The cards are contained in ./app/src/main/res/values-<locale>/strings.xml, where locale is your language value (eg `en` for english, `fr` for french, `es` for spanish, ...)
 You can find the items in : `<string-array name="cards_selection">`.
 
+You can use _B_ as a shortcut for the blank part of your text.
+
 ###### My language is not present
 You can just copy one of the values-<locale> with your own id and change the `cards_selection` item in `strings.xml`
 
